@@ -5,3 +5,12 @@
   border-radius: 50px;
   margin: 0 auto;
 }
+.item {
+  width: 250px;
+  height: 250px;
+  background-color: hotpink;
+  border: 1px solid black;
+  margin: 0 auto;
+  border-radius: 50%;
+  margin-top: 20px;
+}

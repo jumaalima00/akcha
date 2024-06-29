@@ -1,0 +1,1 @@
+let Askat = document.querySelector(".gititem")
